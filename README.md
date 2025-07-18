@@ -18,6 +18,7 @@
 - 📫 ***Reach me on:*** **dqgr** on _discord_
 
 - ⚡ ***Fun fact:*** you probably know me as *Alvi/Shafayet/Shafu/Alu* and so on.
+
 <h3 align="center">oh and also, I give really good backshots</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
