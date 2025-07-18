@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shvff" alt="shvff" /></a> </p>
 
-- 🍾 I’m currently working on **penetrating stuffs**
+- 🍾 ***I’m currently working*** on **penetrating stuffs**
 
-- 🌱 I’m currently learning **to penetrate even better**
+- 🌱 ***I’m currently learning to*** _penetrate even better_
 
-- 🍆As I said I like penetrating earlier, [Here's some proof](https://tryhackme.com/p/sheff)
+- 🍆***As I said I like penetrating earlier***, [Here's some proof](https://tryhackme.com/p/sheff)
 
-- 👨‍💻 All of my projects are available at [well, none at the moment](well, none at the moment)
+- 🧭 ***All of my projects are available at:***  ~~here~~ *My bad, I mean nowhere*
 
-- 💬 Ask me about **how much I like to penetrate**
+- 💬 _***Did you still understand that I like penetrating very much?***_
 
-- 📫 Reach me on: **dqgr on discord**
+- 📫 ***Reach me on:*** **dqgr** on _discord_
 
-- ⚡ Fun fact **you probably know me as Alvi/Shafayet/Shafu/Alu and so on.**
+- ⚡ ***Fun fact:*** you probably know me as *Alvi/Shafayet/Shafu/Alu* and so on.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
