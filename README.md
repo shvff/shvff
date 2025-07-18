@@ -18,7 +18,7 @@
 - 📫 ***Reach me on:*** **dqgr** on _discord_
 
 - ⚡ ***Fun fact:*** you probably know me as *Alvi/Shafayet/Shafu/Alu* and so on.
-<h4 align="center">oh and also, I give really good backshots</h4>
+<h5 align="center">**oh and also, I give really good backshots**</h5>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shafayet-zaman-a7b010307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafayet-zaman-a7b010307" height="30" width="40" /></a>
