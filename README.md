@@ -1,38 +1,29 @@
-# 🛡️ Welcome to Sheff's space
+<h1 align="center">‼️Hello there,, I'm Shafayet Zaman, or better known as Sheff;</h1>
+<h3 align="center">To say simply, I'm just a person who likes penetrating things (very much so, if you wanted to know even)</h3>
 
-Hi, I'm Sheff/Alvi/Shafayet; whatever you know me as   
-I'm currently a newbie penetration tester who is learning with the help of  **TryHackMe** and various other things, just flipping and finding them out :3 , this repo is to show whatever cool I do in the field of pentesting or cybersecurity
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shvff&label=Profile%20views&color=0e75b6&style=flat" alt="shvff" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shvff" alt="shvff" /></a> </p>
 
-## 🧠 My TryHackMe Journey
+- 🍾 I’m currently working on **penetrating stuffs**
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sheff.png)](https://tryhackme.com/p/sheff)
+- 🌱 I’m currently learning **to penetrate even better**
 
-🔗 **Profile:** [tryhackme.com/p/sheff](https://tryhackme.com/p/sheff)
+- 🍆As I said I like penetrating earlier, [Here's some proof](https://tryhackme.com/p/sheff)
 
-📈 I'm actively working on rooms involving:
-- Web exploitation
-- Network enumeration
-- Privilege escalation
-- Vulnerability analysis
-- Red teaming basics
+- 👨‍💻 All of my projects are available at [well, none at the moment](well, none at the moment)
 
----
+- 💬 Ask me about **how much I like to penetrate**
 
-## 🧰 Upcoming Projects (Soon to Be Added)
-- 🔍 Subdomain Brute-forcer
-- 📂 Directory Scanner
-- 🧠 CTF Writeups & Notes
-- 🧪 Custom vulnerable web apps
+- 📫 Reach me on: **dqgr on discord**
 
----
+- ⚡ Fun fact **you probably know me as Alvi/Shafayet/Shafu/Alu and so on.**
 
-## 📫 Contact
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shafayet-zaman-a7b010307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafayet-zaman-a7b010307" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@shxff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shxff" height="30" width="40" /></a>
+</p>
 
-- 🌐 [TryHackMe Profile](https://tryhackme.com/p/sheff)
-- 💻 GitHub: [github.com/shvff](https://github.com/shvff)
-
----
-
-> ⚠️ Projects will be added soon — this is a live learning journey.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
