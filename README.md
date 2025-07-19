@@ -9,7 +9,7 @@
 
 - 🌱 ***I’m currently learning to*** _penetrate even better_
 
-- 🍆***As I said I like penetrating earlier***, [Here's some proof](https://tryhackme.com/p/sheff)
+- 🍆***As I said I like penetrating earlier***, [Here's some proof](https://tryhackme.com/p/sheff)<img src="https://tryhackme-badges.s3.amazonaws.com/sheff.png" alt="Your Image Badge" />
 
 - 🧭 ***All of my projects are available at:***  ~~here~~ *My bad, I mean nowhere*
 
