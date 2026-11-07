@@ -1,109 +1,31 @@
-<div align="center">
+<h1 align="center">‼️Hello there, I'm Shafayet Zaman, or better known as Sheff;</h1>
+<h2 align="center">To say simply, I'm just a person who likes penetrating things (very much so, if you wanted to know even)</h2>
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · shvff</sub></p>
-<h1>Shafayet Zaman</h1>
-<h2>Product-minded developer</h2>
-<p>Professional penetrator, likes holes.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shvff&label=Profile%20views&color=0e75b6&style=flat" alt="shvff" /> </p>
 
-<p><a href="https://github.com/shvff">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/172893873?u=b56bcf3ad2fbcb06f339ed0ffc7937f536051d1d&amp;v=4" width="180" alt="Shafayet Zaman GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shvff" alt="shvff" /></a> </p>
 
-<h2>What teams can evaluate quickly</h2>
+- 🍾 ***I’m currently working*** on **penetrating stuffs**
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>0 contributions · 0 active days</p></td>
-</tr>
-</table>
+- 🌱 ***I’m currently learning to*** _penetrate even better_
 
-<p><sub>Professional penetrator, likes holes.</sub></p>
+- 🍆***As I said I like penetrating earlier***, [Here's some proof](https://tryhackme.com/p/sheff)
+<img src="https://tryhackme-badges.s3.amazonaws.com/sheff.png" alt="Your Image Badge" />
 
-<h2>Proof at a glance</h2>
+- 🧭 ***All of my projects are available at:***  ~~here~~ *My bad, I mean nowhere*
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+- 💬 _***Did you still understand that I like penetrating very much?***_
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=shvff&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172893873%3Fu%3Db56bcf3ad2fbcb06f339ed0ffc7937f536051d1d%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=shvff&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172893873%3Fu%3Db56bcf3ad2fbcb06f339ed0ffc7937f536051d1d%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Shafayet Zaman GitHub proof metrics" />
-</picture>
+- 📫 ***Reach me on:*** **dqgr** on _discord_
+
+- ⚡ ***Fun fact:*** you probably know me as *Alvi/Shafayet/Shafu/Alu* and so on.
+
+<h3 align="center">oh and also, I give really good backshots🦴</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shafayet-zaman-a7b010307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafayet-zaman-a7b010307" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Shxff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shxff" height="30" width="40" /></a>
 </p>
 
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=shvff&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172893873%3Fu%3Db56bcf3ad2fbcb06f339ed0ffc7937f536051d1d%26v%3D4&repos=shvff%2Fshvff%2Cshvff%2Fminecraft&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=shvff&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172893873%3Fu%3Db56bcf3ad2fbcb06f339ed0ffc7937f536051d1d%26v%3D4&repos=shvff%2Fshvff%2Cshvff%2Fminecraft&v=recruiter-projects-1&mode=dark" width="100%" alt="Shafayet Zaman selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/shvff/shvff">shvff</a></h3>
-<p>A somewhat of a bio for a big penetration enjoyer (me) :D</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/shvff/shvff">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/shvff/minecraft">minecraft</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=shvff&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172893873%3Fu%3Db56bcf3ad2fbcb06f339ed0ffc7937f536051d1d%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=shvff&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172893873%3Fu%3Db56bcf3ad2fbcb06f339ed0ffc7937f536051d1d%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Shafayet Zaman technology stack" />
-</picture>
-</p>
-
-<table width="100%">
-<tr>
-<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=shvff&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172893873%3Fu%3Db56bcf3ad2fbcb06f339ed0ffc7937f536051d1d%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=shvff&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172893873%3Fu%3Db56bcf3ad2fbcb06f339ed0ffc7937f536051d1d%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Shafayet Zaman contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/shvff">GitHub</a></td>
-</tr>
-</table>
-
-<p align="center"><sub>Shafayet Zaman · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<h3 align="left">Languages and Tools (learning still):</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
